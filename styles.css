@@ -1,0 +1,8 @@
+.card {
+    border: solid;
+}
+
+.library {
+    display: flex;
+    flex-wrap: wrap;
+}
